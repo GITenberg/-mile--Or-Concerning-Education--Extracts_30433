@@ -1,0 +1,42 @@
+_repo: -mile--Or-Concerning-Education--Extracts_30433
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Worthington, Eleanor
+    gutenberg_agent_id: '34608'
+    url: http://www.gutenberg.org/2009/agents/34608
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rousseau, Jean-Jacques
+    aliases:
+    - Rousseau, J. J. (Jean-Jacques)
+    - Rousseau, Jean Jacques
+    birthdate: 1712
+    deathdate: 1778
+    gutenberg_agent_id: '1286'
+    url: http://www.gutenberg.org/2009/agents/1286
+    wikipedia: http://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
+  editor:
+    agent_name: Steeg, Jules
+    birthdate: 1836
+    deathdate: 1898
+    gutenberg_agent_id: '34607'
+    url: http://www.gutenberg.org/2009/agents/34607
+description: ''
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2009-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education'
+- !lcc 'LB'
+title: Émile; Or, Concerning Education; Extracts
+url: http://www.gutenberg.org/ebooks/30433
