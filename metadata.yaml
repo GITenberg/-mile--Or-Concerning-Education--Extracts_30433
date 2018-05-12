@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '34607'
     url: http://www.gutenberg.org/2009/agents/34607
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30433#-mile--Or-Concerning-Education--Extracts
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2009-11-09'
 gutenberg_type: Text
